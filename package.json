@@ -1,0 +1,16 @@
+{
+  "name": "@ordures/prettier-config",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "ordures project Prettier config",
+  "repository": "git@github.com:ordures/prettier-config.git",
+  "license": "MIT",
+  "prettier": "@ordures/prettier-config",
+  "author": "BovineBoy <yikeyumi65@gmail.com>",
+  "scripts": {
+    "publish": "np"
+  },
+  "devDependencies": {
+    "np": "^7.4.0"
+  }
+}
